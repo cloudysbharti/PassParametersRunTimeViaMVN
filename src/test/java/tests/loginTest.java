@@ -30,8 +30,9 @@ public class loginTest {
 //		
 //		WebElement password=driver.findElement(By.xpath(""));
 		
-//		These are new chnages
-//
+//		These are new chna
+		
+//               these new changes
 //		//Read MyProject.properties
 //		
 		Properties prop=new Properties();

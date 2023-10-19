@@ -29,8 +29,9 @@ public class loginTest {
 //		WebElement username=driver.findElement(By.xpath(""));
 //		
 //		WebElement password=driver.findElement(By.xpath(""));
-//		
+		
 //		These are new chnages
+//
 //		//Read MyProject.properties
 //		
 		Properties prop=new Properties();
